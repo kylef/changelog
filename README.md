@@ -43,3 +43,10 @@ You can find examples of changelogs in the wild in the following projects:
 - [swiftenv](https://github.com/kylef/swiftenv/blob/master/CHANGELOG.md)
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md)
 - [Xcodeproj](https://github.com/CocoaPods/Xcodeproj/blob/master/CHANGELOG.md)
+- [Jekyll](https://github.com/jekyll/jekyll/blob/master/History.markdown)
+
+### Parsers & Generators
+
+Interested in programmatically reading or manipulating your changelog?
+
+- [Golang: parkr/changelog](https://github.com/parkr/changelog)
