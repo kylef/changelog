@@ -6,9 +6,9 @@ This document is a full specification of the changelog format.
 
 Changelogs should be stored in a filename called `CHANGELOG.md`.
 
-## Version
+## Release
 
-A version is indicated by a subheading followed by the version name.
+A release is indicated by a subheading followed by the release name.
 
 ```markdown
 ## 1.0.0
@@ -21,7 +21,7 @@ The date must be contained within round brackets:
 ## 1.0.0 (2016-01-09)
 ```
 
-A version may also contain a short summary.
+A release may also contain a short summary.
 
 ```markdown
 ## 1.0.0 (2016-01-09)
@@ -31,7 +31,7 @@ Initial release of Curassow.
 
 ## Section
 
-Within a version, you may define sections to group individual change entries
+Within a release, you may define sections to group individual change entries
 together via subheadings. For example, to create a section called "Bug Fixes":
 
 ```markdown
