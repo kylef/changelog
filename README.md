@@ -14,7 +14,8 @@ for changelog files to bring consistency across projects.
 A formal specification around changelogs may also allow automation via tools.
 Tools can understand semantics around changes, whether a change is breaking, an
 enhancement or a bug fix and automatically determine the next appropriate
-[semantic version](http://semver.org) number.
+[semantic version](http://semver.org) number. Along with dealing with any
+manual tasks around changelog management.
 
 ## Examples
 
