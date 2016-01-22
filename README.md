@@ -1,6 +1,6 @@
 # Changelog
 
-A formal specification for changelog files and entries.
+A formal specification for semantic changelog files and entries.
 
 ## Quick Links
 
