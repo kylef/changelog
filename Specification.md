@@ -47,6 +47,10 @@ meaning of changes.
 - Enhancements - New functionality that is introduced.
 - Bug Fixes - Backwards compatible bug fixes.
 
+The order of sections should be in the order of importance. For example,
+Breaking section SHOULD be above Enhancements. Enhancements SHOULD be above Bug
+Fixes.
+
 ## Change Entry
 
 A change entry is in the form of a markdown list.
